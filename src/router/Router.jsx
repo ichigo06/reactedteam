@@ -1,6 +1,6 @@
 import { createBrowserRouter } from "react-router-dom"
 import App from "../components/App"
-import Error404  from "../components/pages/error404"
+import Error404  from "../components/pages/Error404"
 import Products from "../components/pages/Products"
 import Public from "../components/template/Public"
 
